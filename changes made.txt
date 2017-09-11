@@ -1,0 +1,6 @@
+open refine:
+I changed all columns with numbers to number values
+I organized by year, month, day
+I clustered together similar/ mispelled genus and species names
+
+*on the excel sheet that I uploaded I'm not sure if all the changes came across but I also uploaded the other data code from github that showed our changes
